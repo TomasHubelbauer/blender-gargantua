@@ -12,4 +12,4 @@
 
 ## To-Do
 
-Render the file in GitHub Actions and push the render file to the repo.
+### Render the file in GitHub Actions and push the render file to the repo
