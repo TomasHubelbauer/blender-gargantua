@@ -13,3 +13,7 @@
 [BlenderNation.com interview with Nika Maisuradze](https://www.blendernation.com/2015/02/17/behind-the-scenes-gargantua/)
 
 ## To-Do
+
+### Update the workflow to work with the latest Ubuntu if needed
+
+As was done in https://github.com/TomasHubelbauer/blender-light-box.
